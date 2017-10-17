@@ -16,6 +16,12 @@ public class Main {
 			System.out.println(apple.name);
 		}
 		
+		List<Apple> listApple = filterApple(appleList, new ApplePredicate<Apple>(){			
+			public boolean filter(Apple apple){
+				return apple.color.equals("red");
+			}
+		});
+		
 		//prettyPrintApple(appleList, new PrintNameAndWeight());
 	}
 	public static List<Apple> filterApple(List<Apple> list, ApplePredicate<Apple> filterMethod){

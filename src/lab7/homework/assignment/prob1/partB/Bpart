@@ -1,0 +1,5 @@
+
+
+In here, Employee equals method is checking the equality correct but it does not override the equals method
+of Object Superclass. Thats why every time when contains method of the List checks for equality, it was checking
+with equals method of SuperClass Object which checks only object reference not values.
