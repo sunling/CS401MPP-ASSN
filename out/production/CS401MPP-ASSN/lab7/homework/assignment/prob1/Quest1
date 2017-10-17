@@ -1,0 +1,2 @@
+1. Java's ArrayList implements Serializable,Cloneable,RandomAccess, 
+List, Collection, Iterable interfaces, and extens AbstractList abstract class.
