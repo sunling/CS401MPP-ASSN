@@ -1,0 +1,2 @@
+Here the hashCode method must be overridden for the hashmap to allocate place in the hash buckets.Hash Map
+uses object key hashCode to generate a key to choose the place in the hash buckets.

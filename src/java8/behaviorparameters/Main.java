@@ -1,6 +1,7 @@
 package java8.behaviorparameters;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Main {
@@ -23,6 +24,14 @@ public class Main {
 		});
 		
 		//prettyPrintApple(appleList, new PrintNameAndWeight());
+		
+		Comparator<Apple> byWeight = (Apple a1,Apple a2)-> a1.color.compareTo(a2.color);
+		NoParameterLamba lam = ()-> 42;
+		getInt(()->42);
+		int number = 12;
+		Runnable r = ()->{
+			System.out.println(number);
+		};
 	}
 	public static List<Apple> filterApple(List<Apple> list, ApplePredicate<Apple> filterMethod){
 		List<Apple> appleList = new ArrayList<Apple>();
@@ -32,6 +41,10 @@ public class Main {
 			}
 		}
 		return appleList;
+	}
+	
+	public static void getInt(NoParameterLamba lamba){
+		System.out.println(lamba.e());
 	}
 	
 	public static void prettyPrintApple(List<Apple> inventory, PrettyPrintApple filter){

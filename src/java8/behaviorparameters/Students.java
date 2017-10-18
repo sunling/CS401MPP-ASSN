@@ -1,17 +1,32 @@
 package java8.behaviorparameters;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import lab3.homework.assignment.problemOne.Person;
+
+import java.math.BigInteger;
+import java.util.*;
 import java.util.function.Consumer;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Students {
 	public static void main(String[] args) {
 		List<Student> list = new ArrayList<Student>();
 		list.add(new Student("farruh", "03948", "California"));
-		list.add(new Student("salim", "895485", "Fairfield"));
+		list.add(new Student("falimsdfdsf", "895485", "Fairfield"));
+		List<Student> newList = list.stream().filter(name -> name.name.startsWith("f")).filter(name->name.name.length()>6).collect(Collectors.toList());
 
+		newList.forEach(e ->{
+			System.out.println(e.name);
+		});
+
+		Stream<String> echoes = Stream.generate(()->"Echo").limit(10);
+		 echoes.forEach(e -> {
+			 System.out.println(e);
+		 });
+
+		 Stream<BigInteger> naturalNums = Stream.iterate(BigInteger.ONE,n->n.add(BigInteger.ONE));
+
+		///Map<Integer,String> idToName  = echoes.collect(Collectors.toMap(Person::getName,Person::getName));
 //		Collections.sort(list, new Comparator<Student>() {
 //			@Override
 //			public int compare(Student o1, Student o2) {
@@ -35,7 +50,7 @@ public class Students {
 		//
 		// }
 		// });
-		studentList(list, s -> s.name.toUpperCase());
+		//studentList(list, s -> s.name.toUpperCase());
 
 	}
 	

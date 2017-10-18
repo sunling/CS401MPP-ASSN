@@ -1,0 +1,9 @@
+a. If the java class inherits the same implemented method from interface and class, super class implementation
+wins.
+
+b. If both interfaces have unimplemented method with the same signature, the class can implement the method with
+no problem. However, if one of the interfaces has default implemented method,the class must either override of the methods
+or declare it as abstract method.
+
+c. If one of them has default method, the extending interface must either declare unimplemented abstract method 
+or implemented default method.
