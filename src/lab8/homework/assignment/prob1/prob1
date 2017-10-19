@@ -1,0 +1,44 @@
+a) 
+
+1. In imperative programming of languages, such as mainstream such as Java or C#, you have to write
+exactly all the details for what the computers have to do to perform a task. However, functional approach
+involves composing as set of functions to perform a task.
+
+2. And the order of the execution in imperative approach is important, however it is low important in 
+functional approach.
+
+b)
+
+An imperative approach (HOW): I see that table located under the Gone Fishin’ sign is empty. My husband and I are going to walk over there and sit down.
+
+A declarative approach (WHAT): Table for two, please.
+
+
+d) There are benefits of using functional interface. 1. To achieve clear code, 2. It is easier to do achieve 
+concurrency 3. Functional programs tend to be much more terse than their ImperativeLanguage counterparts. Often this leads to 
+enhanced programmer productivity.
+
+e)
+
+(x) -> x + x *x *2;
+
+(x, y) -> y - x + Math.pow(x,y);
+
+(x,y,z)-> z - x + y;
+
+f)
+1) There is no parameter, and free variables are products and must be declared final.
+
+2) I have no freaking idea why this question asked me here. Sorry, no offense.
+
+3) Parameters, s,t and free parameter is ignoreCase.
+
+
+
+
+
+
+
+
+
+
