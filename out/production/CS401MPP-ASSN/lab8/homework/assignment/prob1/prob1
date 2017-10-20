@@ -1,0 +1,82 @@
+a) 
+
+1. In imperative programming of languages, such as mainstream such as Java or C#, you have to write
+exactly all the details for what the computers have to do to perform a task. However, functional approach
+involves composing as set of functions to perform a task.
+
+2. And the order of the execution in imperative approach is important, however it is low important in 
+functional approach.
+
+
+3. Functional programming is more expressive and close to actual logic, you write less but achieve more
+error free and vice versa for imperative programming.
+
+b)
+
+An imperative approach (HOW): I see that table located under the Gone Fishin’ sign is empty. My husband and I are going to walk over there and sit down.
+
+A declarative approach (WHAT): Table for two, please.
+
+
+c)
+
+In short, functional interface is an interface with exactly one abstract method. For example, there are lots of
+functional interface in java such as Comparator, and Runnable.
+
+Functor is mapping between categories.
+
+Closure is a basicially A closure is a block of code that can be referenced (and passed around) with access to the variables of the enclosing scope. 
+Since Java 1.1, anonymous inner class have provided this facility in a highly verbose manner. However, from Java 1.8, lambada expression can handle it.
+
+d) There are benefits of using functional interface. 1. To achieve clear code, 2. It is easier to do achieve 
+concurrency 3. Functional programs tend to be much more terse than their Imperative language counterparts. Often this leads to 
+enhanced programmer productivity.
+
+e)
+
+(x) -> x + x *x *2;
+
+(x, y) -> y - x + Math.pow(x,y);
+
+(x,y,z)-> z - x + y;
+
+f)
+
+1) There is no parameter, and free variables are products and must be declared final.
+
+2) There are parameter variables  u and r, but no free variables.
+
+3) Parameters, s,t and free parameter is ignoreCase.
+
+g)
+
+interface Predicate<T>{
+	public boolean test(T e);
+}
+
+can be used for this functional interface;
+
+Or I have created custom with name MyPredicate
+
+h)
+
+1) a -> System.out.println(s);
+
+2)This is method instant reference. Thats all. Nothing more.
+
+j)
+
+1) Supplier<Double> sup = () -> Math.random();
+
+2) Yes, i did.
+
+
+
+
+
+
+
+
+
+
+
