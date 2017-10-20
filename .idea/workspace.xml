@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c171f385-892a-4044-8b08-3b9fc38a9d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/RunnableEx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excises2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercise1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercise4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercise7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/java8/behaviorparameters/Students.class" afterPath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/java8/behaviorparameters/Students.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/lab7/homework/assignment/prob5/FlyWithWings.class" afterPath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/lab7/homework/assignment/prob5/FlyWithWings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/lab8/homework/assignment/prob6/exercise7.class" afterPath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/lab8/homework/assignment/prob6/exercise7.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java" afterPath="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,11 +72,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercises8.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercises8.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="106">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excirces9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1580">
+              <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1215#1216#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercises10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -134,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces6.java" />
         <option value="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercise7.java" />
         <option value="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java" />
+        <option value="$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces9.java" />
       </list>
     </option>
   </component>
@@ -242,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise7">
+  <component name="RunManager" selected="Application.exercises8">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="WIDTH" value="400" />
@@ -361,25 +415,6 @@
       <module name="CS401MPP-ASSN" />
       <envs />
     </configuration>
-    <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lab8.homework.assignment.prob6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lab8.homework.assignment.prob6.exercise1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CS401MPP-ASSN" />
-      <envs />
-    </configuration>
     <configuration name="exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -418,20 +453,39 @@
       <module name="CS401MPP-ASSN" />
       <envs />
     </configuration>
+    <configuration name="exercises8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lab8.homework.assignment.prob6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lab8.homework.assignment.prob6.exercises8" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CS401MPP-ASSN" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.exercise1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.excises2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.exercise4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.excirces6" />
-      <item index="4" class="java.lang.String" itemvalue="Application.exercise7" />
+      <item index="0" class="java.lang.String" itemvalue="Application.excises2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.exercise4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.excirces6" />
+      <item index="3" class="java.lang.String" itemvalue="Application.exercise7" />
+      <item index="4" class="java.lang.String" itemvalue="Application.exercises8" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.exercise7" />
-        <item index="1" class="java.lang.String" itemvalue="Application.excirces6" />
-        <item index="2" class="java.lang.String" itemvalue="Application.exercise4" />
-        <item index="3" class="java.lang.String" itemvalue="Application.excises2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.exercise1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.exercises8" />
+        <item index="1" class="java.lang.String" itemvalue="Application.exercise7" />
+        <item index="2" class="java.lang.String" itemvalue="Application.excirces6" />
+        <item index="3" class="java.lang.String" itemvalue="Application.exercise4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.excises2" />
       </list>
     </recent_temporary>
   </component>
@@ -447,16 +501,15 @@
       <updated>1508279252455</updated>
       <workItem from="1508279257607" duration="3249000" />
       <workItem from="1508338618417" duration="3748000" />
-      <workItem from="1508456291595" duration="4475000" />
+      <workItem from="1508456291595" duration="5877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11472000" />
+    <option name="totallyTimeSpent" value="12874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="26" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -471,7 +524,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20588236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20588236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -804,8 +857,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="106">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/exercises10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
