@@ -1,4 +1,4 @@
-package lab9.homework.assignment.partOne;
+package lab9.homework.assignment.partOne.three;
 
 public class Employee {
 	String name;
@@ -18,20 +18,21 @@ public class Employee {
 		return sb.toString();
 		
 	}
-	@Override
-	public boolean equals(Object ob) {
-		if(ob == null) return false;
-		if(ob.getClass() != getClass()) return false;
-		Employee e = (Employee)ob;
-		return e.name.equals(name) && e.salary==salary;
-	}
 
 	public String getName() {
 		return name;
 	}
 
+	public void setName(String name) {
+		this.name = name;
+	}
+
 	public int getSalary() {
 		return salary;
+	}
+
+	public void setSalary(int salary) {
+		this.salary = salary;
 	}
 }
 

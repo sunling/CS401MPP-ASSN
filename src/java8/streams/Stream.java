@@ -39,7 +39,7 @@ public class Stream {
 //        System.out.println(integers);
 //
 //        List<String> wordList = Arrays.asList("Hello", "World");
-//        List<java.util.stream.Stream<String>> characterList = wordList.stream().map(d -> d.split("")).map(Arrays::stream).distinct().collect(toList());
+//        List<java.util.stream.StreamEc<String>> characterList = wordList.stream().map(d -> d.split("")).map(Arrays::stream).distinct().collect(toList());
 //        BinaryOperator<Integer> operator;
 //        int integer = list.stream().reduce(0, Integer::sum);
         list.stream().reduce(Integer::max).ifPresent(System.out::println);
