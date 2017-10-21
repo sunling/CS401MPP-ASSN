@@ -1,5 +1,10 @@
 package java8.main;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,6 +22,12 @@ public class SecondMain {
 //		list.sort((e1,e2)->{
 //			if(e1.name.compareTo())
 //		});
+	}
+	
+	public void handleFile(File f) throws FileNotFoundException, IOException{
+		try(BufferedReader buf = new BufferedReader(new FileReader(f))){
+			
+		}
 	}
 
 }
