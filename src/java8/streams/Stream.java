@@ -1,10 +1,8 @@
 package java8.streams;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.function.BinaryOperator;
+import java.util.stream.IntStream;
 
 import static java.util.stream.Collectors.toList;
 
@@ -42,8 +40,13 @@ public class Stream {
 //        List<java.util.stream.StreamEc<String>> characterList = wordList.stream().map(d -> d.split("")).map(Arrays::stream).distinct().collect(toList());
 //        BinaryOperator<Integer> operator;
 //        int integer = list.stream().reduce(0, Integer::sum);
-        list.stream().reduce(Integer::max).ifPresent(System.out::println);
+       // list.stream().reduce(Integer::max).ifPresent(System.out::println);
         //System.out.println(max);
+        OptionalInt optionalInt = list.stream().mapToInt(e->e).max();
+        System.out.println(optionalInt.orElse(1));
+
+        IntStream rangeStream = IntStream.rangeClosed(1,100);
+        rangeStream.forEach(System.out::println);
 
     }
 }
