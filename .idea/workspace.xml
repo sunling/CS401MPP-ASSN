@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c171f385-892a-4044-8b08-3b9fc38a9d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/five/StreamEc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoOK.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/EmployeeInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/EmployeeNameComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/EmployeeSalaryComparator.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/Employee.java" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/Employee.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/streams/Stream.java" afterPath="$PROJECT_DIR$/src/java8/streams/Stream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,26 +25,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeInfoBetter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EmployeeInfoBetter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="292">
+              <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamEc.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/five/StreamEc.java">
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="179">
+              <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,9 +91,10 @@
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/EmployeeInfo.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeSalaryComparator.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/Employee.java" />
-        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/five/Stream.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/five/StreamEc.java" />
+        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/Pair.java" />
+        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" />
       </list>
     </option>
   </component>
@@ -167,6 +158,14 @@
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="partOne" type="462c0819:PsiDirectoryNode" />
               <item name="five" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="partOne" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +405,7 @@
       <workItem from="1508456291595" duration="6253000" />
       <workItem from="1508512456333" duration="651000" />
       <workItem from="1508550577322" duration="5069000" />
-      <workItem from="1508618595861" duration="1668000" />
+      <workItem from="1508618595861" duration="8673000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1508621319877</created>
@@ -422,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508621386588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solutions Skipping and Limit with Stream">
+      <created>1508622851380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508622851380</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20638000" />
+    <option name="totallyTimeSpent" value="27643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -434,7 +440,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -499,7 +505,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdf" />
     <MESSAGE value="Solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solutions" />
+    <MESSAGE value="Solutions Skipping and Limit with Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solutions Skipping and Limit with Stream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,24 +541,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/excirces9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2860">
-          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-          <folding>
-            <element signature="e#26957#26958#0" expanded="false" />
-            <element signature="e#27022#27023#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob6/RunnableEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -833,22 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7940">
-          <caret line="429" column="17" lean-forward="false" selection-start-line="429" selection-start-column="17" selection-end-line="429" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2400">
@@ -905,22 +878,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="179">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="463" column="54" lean-forward="true" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/five/StreamEc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#570#571#0" expanded="true" />
             <element signature="e#616#617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
