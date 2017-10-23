@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class prob2 {
+public class Main {
 	
 	public static void main(String [] args){
         PrimeStream primeStream = new PrimeStream();

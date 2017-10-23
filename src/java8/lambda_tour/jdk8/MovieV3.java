@@ -1,5 +1,8 @@
 package java8.lambda_tour.jdk8;
 
+import java8.lambda_tour.model.Actor;
+import java8.lambda_tour.model.Movie;
+
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -16,8 +19,6 @@ import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.paumard.model.Actor;
-import org.paumard.model.Movie;
 
 public class MovieV3 {
 

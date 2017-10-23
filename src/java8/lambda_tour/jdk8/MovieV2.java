@@ -1,5 +1,8 @@
 package java8.lambda_tour.jdk8;
 
+import java8.lambda_tour.model.Actor;
+import java8.lambda_tour.model.Movie;
+
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -14,8 +17,6 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import org.paumard.model.Actor;
-import org.paumard.model.Movie;
 
 public class MovieV2 {
 	
@@ -85,7 +86,7 @@ public class MovieV2 {
         
         // Actor that played in the greatest number of movies during a year
         // Much faster version than the one in Movies
-        Map.Entry<Integer, Map.Entry<Actor, AtomicLong>> entry4 = 
+        Map.Entry<Integer, Map.Entry<Actor, AtomicLong>> entry4 =
         		movies.stream()
                 .collect(
                         Collectors.groupingBy(

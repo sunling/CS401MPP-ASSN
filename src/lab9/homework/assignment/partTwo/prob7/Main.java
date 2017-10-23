@@ -2,7 +2,9 @@ package lab9.homework.assignment.partTwo.prob7;
 
 import java8.streams.Stream;
 
+import java.io.SequenceInputStream;
 import java.util.*;
+import java.util.stream.IntStream;
 
 public class Main {
 
@@ -20,7 +22,7 @@ public class Main {
 		//your stream pipeline here
 		list.stream().filter(e -> e.getSalary() > 100000).filter(e->e.getLastName()
 				.startsWith("S")).sorted(Comparator.comparing(Employee::getSalary))
-				.forEach(e->System.out.println(e.firstName +" " +e.getLastName()));
+				.forEach(e->System.out.println(e.getFirstName() +" - " +e.getLastName()));
 
 	}
 

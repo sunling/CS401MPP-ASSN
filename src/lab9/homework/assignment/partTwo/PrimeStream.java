@@ -34,9 +34,9 @@ public class PrimeStream {
         return  stream.skip(m).limit(n);
     }
 
-//    public Set<String> union(List<Set<String>> sets){
-//        //Set<String> setsOfString = sets.stream().reduce(s->s).
-//    }
+    //public Set<String> union(List<Set<String>> sets){
+      //  Set<String> setsOfString = sets.stream().reduce(e->e.stream().flatMap(s->s.toString()).collect()
+    //}
 
 
 

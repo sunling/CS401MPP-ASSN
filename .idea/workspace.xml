@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c171f385-892a-4044-8b08-3b9fc38a9d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/files/mcdonalds.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/files/movies-mpaa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/files/ospd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/files/words.shakespeare.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/McDonalds.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/Movies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/Scrabble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/model/Actor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/model/McDonald.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/java8/main/SecondMain.class" afterPath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/java8/main/SecondMain.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CS401MPP-ASSN/java8/main/SecondMain.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob2.java" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/main/SecondMain.java" afterPath="$PROJECT_DIR$/src/java8/main/SecondMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/McDonalds.java" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/McDonalds.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV2.java" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV3.java" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java" afterPath="$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java" afterPath="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,66 +22,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Furruh.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/main/Furruh.java">
+      <file leaf-file-name="PrimeStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+              <folding>
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/main/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="-125">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/main/SecondMain.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="30" column="14" lean-forward="false" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            <state relative-caret-position="292">
+              <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Movies.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/jdk8/Movies.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ospd.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/files/ospd.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -140,11 +117,16 @@
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partOne/three/EmployeeInfoBetter.java" />
         <option value="$PROJECT_DIR$/src/java8/streams/Stream.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob2.java" />
-        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java" />
         <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Employee.java" />
-        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java" />
         <option value="$PROJECT_DIR$/src/java8/main/SecondMain.java" />
         <option value="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/Movies.java" />
+        <option value="$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java" />
+        <option value="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/McDonalds.java" />
+        <option value="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV3.java" />
+        <option value="$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV2.java" />
+        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java" />
+        <option value="$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java" />
       </list>
     </option>
   </component>
@@ -192,12 +174,6 @@
               <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -205,6 +181,21 @@
               <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="partTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="partTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="prob7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondMain">
+  <component name="RunManager" selected="Application.Movies">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -247,6 +238,44 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lab9.homework.assignment.partTwo.prob7.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CS401MPP-ASSN" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lab9.homework.assignment.partTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lab9.homework.assignment.partTwo.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CS401MPP-ASSN" />
+      <envs />
+    </configuration>
+    <configuration name="Movies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda_tour.jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="java8.lambda_tour.jdk8.Movies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -285,25 +314,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="java8.streams.Stream" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CS401MPP-ASSN" />
-      <envs />
-    </configuration>
-    <configuration name="StreamEc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lab9.homework.assignment.partOne.five.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lab9.homework.assignment.partOne.five.StreamEc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -395,39 +405,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="prob2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lab9.homework.assignment.partTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lab9.homework.assignment.partTwo.prob2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CS401MPP-ASSN" />
-      <envs />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.SecondMain" />
       <item index="1" class="java.lang.String" itemvalue="Application.Stream" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StreamEc" />
-      <item index="3" class="java.lang.String" itemvalue="Application.prob2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Movies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SecondMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.prob2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Stream" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StreamEc" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Movies" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SecondMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +437,7 @@
       <workItem from="1508456291595" duration="6253000" />
       <workItem from="1508512456333" duration="651000" />
       <workItem from="1508550577322" duration="5069000" />
-      <workItem from="1508618595861" duration="16202000" />
+      <workItem from="1508618595861" duration="17876000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1508621319877</created>
@@ -483,11 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508646487366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lamda Big Data Tour">
+      <created>1508728825804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508728825804</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35172000" />
+    <option name="totallyTimeSpent" value="36846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -560,7 +558,8 @@
     <MESSAGE value="sdf" />
     <MESSAGE value="Solutions" />
     <MESSAGE value="Solutions Skipping and Limit with Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solutions Skipping and Limit with Stream" />
+    <MESSAGE value="Lamda Big Data Tour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lamda Big Data Tour" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -595,35 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="281" column="50" lean-forward="false" selection-start-line="281" selection-start-column="42" selection-end-line="281" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab7/homework/assignment/prob1/partB/EmployeeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="63" column="47" lean-forward="false" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab7/homework/assignment/prob1/partB/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab7/homework/assignment/prob3/ForEachExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab3/homework/assignment/problemtwo/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -875,16 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -901,66 +861,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="269" column="32" lean-forward="false" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
+        <state relative-caret-position="117">
+          <caret line="998" column="19" lean-forward="false" selection-start-line="998" selection-start-column="19" selection-end-line="998" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/files/ospd.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#642#643#0" expanded="false" />
-            <element signature="e#876#877#0" expanded="false" />
-            <element signature="e#923#924#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/main/Furruh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/main/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -973,18 +885,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+    <entry file="file://$PROJECT_DIR$/src/java8/main/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="998" column="19" lean-forward="false" selection-start-line="998" selection-start-column="19" selection-end-line="998" selection-end-column="19" />
+        <state relative-caret-position="278">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java">
+    <entry file="file://$PROJECT_DIR$/src/java8/main/Furruh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/files/movies-mpaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/jdk8/MovieV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="88" column="39" lean-forward="false" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/jdk8/McDonalds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -993,7 +941,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/jdk8/Movies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
+        <state relative-caret-position="-1628">
           <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1001,10 +949,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/files/ospd.txt">
+    <entry file="file://$PROJECT_DIR$/src/java8/lambda_tour/model/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="82">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="269" column="32" lean-forward="false" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/PrimeStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding>
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/homework/assignment/partTwo/prob7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
           <folding />
         </state>
       </provider>
