@@ -1,0 +1,8 @@
+a)
+
+There is a compilation error when add the number to List<? extends Number>, because this list does not
+still know what type of object to get. Thats why, it just assumes it is getting wrong type of arguments.
+
+b)
+
+In the second one, at first, assignment being equalized for incovariant list type List<Object> and List<Number>

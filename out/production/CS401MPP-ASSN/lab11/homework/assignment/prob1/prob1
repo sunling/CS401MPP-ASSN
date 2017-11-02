@@ -1,0 +1,11 @@
+a)
+
+There is compile time error because of not being covariant.
+List<Integer> and List<Number> are not covariant.
+
+b)
+
+However, in the second one, they both were made covariant using the wild
+card characters. However, when it add item to the second list whose parameter type extends
+from number, it shows compile error because the list does not know what value it is taking , that;s why
+it shows compile error.
