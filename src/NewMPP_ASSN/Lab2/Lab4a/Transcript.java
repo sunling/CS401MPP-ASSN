@@ -1,8 +1,10 @@
 package NewMPP_ASSN.Lab2.Lab4a;
 import java.util.*;
 public class Transcript {
+	
 	private Student student;
 	private List<TranscriptEntry> entries = new ArrayList<>();
+	
 	public Transcript(List<TranscriptEntry> entries, Student student) {
 		this.student = student;
 		this.entries = entries;
