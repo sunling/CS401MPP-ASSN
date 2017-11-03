@@ -1,0 +1,4 @@
+We are getting these two different results because in the first equals p1.equals(p2) We are comparing the personWithJobs and Person Objects
+the person object does not define the salary attribute, that's why it is giving automatic false.
+
+It can be overcome by composition
