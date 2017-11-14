@@ -1,4 +1,4 @@
-package NewMPP_ASSN.LessonCodes;
+package NewMPP_ASSN.LessonCodes.lesson6;
 
 public class Position {
 	
