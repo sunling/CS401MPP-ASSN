@@ -34,6 +34,9 @@ public class PartB {
 		
 	
 	public void evaluator() {
+		System.out.println(functionalInterface.apply(record));
+		System.out.println(methodReference.apply(record));
+		System.out.println(new MyClass().apply(record));
 		//test your lambda, your method reference, and your inner class operation
 	}
 	
