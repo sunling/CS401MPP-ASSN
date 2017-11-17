@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Date;
 import java.util.List;
+import java.util.stream.Collectors;
+
+import static java.util.stream.Collectors.toList;
+
 public class Main {
 
 	
@@ -30,8 +34,12 @@ public class Main {
 	//reverse sorted order (by first name), of the
 	//full names of those library members who have never checked out a book
 	public static List<String> nonActiveMembers(List<LibraryMember> list) {
-		 //ArrayList<String> listMember = list.stream().filter(e->e.getRecord()>0).sorted();
-		return null;
+		list.stream().filter(e->e.getRecord().getCheckoutEntries().size()>0)
+				 .sorted(Comparator.comparing(LibraryMember::getFirstName).reversed()).map(e->e.getFirstName()+e.getLastName())
+				 .collect(toList());
+		return list.stream().filter(e->e.getRecord().getCheckoutEntries().size()>0)
+				.sorted(Comparator.comparing(LibraryMember::getFirstName).reversed()).map(e->e.getFirstName()+e.getLastName())
+				.collect(toList());
 	}
 	
 	
