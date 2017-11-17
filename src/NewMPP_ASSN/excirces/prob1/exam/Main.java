@@ -34,9 +34,6 @@ public class Main {
 	//reverse sorted order (by first name), of the
 	//full names of those library members who have never checked out a book
 	public static List<String> nonActiveMembers(List<LibraryMember> list) {
-		list.stream().filter(e->e.getRecord().getCheckoutEntries().size()>0)
-				 .sorted(Comparator.comparing(LibraryMember::getFirstName).reversed()).map(e->e.getFirstName()+e.getLastName())
-				 .collect(toList());
 		return list.stream().filter(e->e.getRecord().getCheckoutEntries().size()>0)
 				.sorted(Comparator.comparing(LibraryMember::getFirstName).reversed()).map(e->e.getFirstName()+e.getLastName())
 				.collect(toList());

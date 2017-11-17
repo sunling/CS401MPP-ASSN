@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cffbe53-f680-40bd-b189-f77bd1d7eabb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/BookCopy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/CheckoutRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/CheckoutRecordEntry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LibraryMember.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/TestCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/TestData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/sample/LambdaLibrary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/sample/Main.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Functional.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +20,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="38" column="35" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="38" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaLibrary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="39" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,12 +41,28 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java" />
+        <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Functional.java" />
+        <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -240,12 +254,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510941154042</updated>
-      <workItem from="1510941155489" duration="42000" />
+      <workItem from="1510941155489" duration="2308000" />
     </task>
+    <task id="LOCAL-00001" summary="New Update">
+      <created>1510941428252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510941428252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42000" />
+    <option name="totallyTimeSpent" value="2308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -285,19 +307,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LibraryMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/homework/assignment/prob4/TriFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Functional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="39" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="38" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
