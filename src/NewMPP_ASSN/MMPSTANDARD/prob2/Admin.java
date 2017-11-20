@@ -8,6 +8,6 @@ public class Admin {
      */
 	public static double computeAverageGpa(List<Student> studentList) {
 		//implement
-		return 0.0;
+		return studentList.stream().mapToDouble(e->e.computeGpa()).average().getAsDouble();
 	}
 }
