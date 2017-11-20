@@ -24,6 +24,6 @@ public class Test {
 
         BiFunction<Integer, Integer, Double> mathPower = (i1,i2)->Math.pow(i1,i2);
 
-        
+
     }
 }
