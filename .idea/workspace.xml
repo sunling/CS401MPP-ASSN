@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8cffbe53-f680-40bd-b189-f77bd1d7eabb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Test.java" afterPath="$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Merger.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Merger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob5/exam/Merger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
@@ -80,24 +81,45 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="428" column="39" lean-forward="false" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PartA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob2/exam/partA/PartA.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LambdaLibrary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob1/exam/LambdaLibrary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="39" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -133,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob5/exam/MergerFunction.java" />
         <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob5/exam/Merge.java" />
         <option value="$PROJECT_DIR$/src/NewMPP_ASSN/excirces/prob5/exam/Merger.java" />
+        <option value="$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Test.java" />
       </list>
     </option>
   </component>
@@ -189,22 +212,7 @@
               <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="NewMPP_ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="excirces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="NewMPP_ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="excirces" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS401MPP-ASSN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS401MPP-ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="NewMPP_ASSN" type="462c0819:PsiDirectoryNode" />
-              <item name="MMPSTANDARD" type="462c0819:PsiDirectoryNode" />
+              <item name="lamdaexcirces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +360,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510941154042</updated>
       <workItem from="1510941155489" duration="5714000" />
-      <workItem from="1511146076762" duration="3000" />
+      <workItem from="1511146076762" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="New Update">
       <created>1510941428252</created>
@@ -393,7 +401,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5717000" />
+    <option name="totallyTimeSpent" value="6187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -500,7 +508,7 @@
         <state relative-caret-position="600">
           <caret line="39" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -527,6 +535,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -541,6 +550,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +566,7 @@
         <state relative-caret-position="600">
           <caret line="39" column="82" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -626,6 +636,33 @@
           <folding>
             <element signature="e#178#179#0" expanded="true" />
             <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="428" column="39" lean-forward="false" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewMPP_ASSN/lamdaexcirces/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
           </folding>
         </state>
       </provider>
